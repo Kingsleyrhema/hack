@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 CORS_ALLOWED_ORIGINS = (
-  'http://localhost:5173', 'http://localhost:5173/gallery', 'http://192.168.100.103:5173', 'http://192.168.43.224:5173'
+  'http://localhost:5173', 'http://localhost:5173/gallery', 'http://192.168.100.103:5173', 'http://192.168.43.224:5173', 'https://a2sv-psi.vercel.app/gallery'
 )
 
 # Application definition
